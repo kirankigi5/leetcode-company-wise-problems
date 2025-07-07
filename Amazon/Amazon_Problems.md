@@ -4,7 +4,7 @@ This document contains Amazon LeetCode problems with tracking for solved status 
 
 | Difficulty | Title | Frequency | Acceptance Rate | Link | Topics | Solved | Solution |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| EASY | [Two Sum](https://leetcode.com/problems/two-sum) | 100.0 | 55.8% | [Link](https://leetcode.com/problems/two-sum) | Array, Hash Table | ❌ |  |
+| EASY | [Two Sum](https://leetcode.com/problems/two-sum) | 100.0 | 55.8% | [Link](https://leetcode.com/problems/two-sum) | Array, Hash Table | ✅ | [C++ Solution](https://leetcode.com/problems/two-sum/solutions/6674442/c-solution-two-sum-with-sorting-two-pointers-beats-100/) |
 | HARD | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 85.9 | 65.1% | [Link](https://leetcode.com/problems/trapping-rain-water) | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | ❌ |  |
 | MEDIUM | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 82.6 | 36.9% | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Hash Table, String, Sliding Window | ❌ |  |
 | EASY | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | 81.4 | 52.9% | [Link](https://leetcode.com/problems/merge-sorted-array) | Array, Two Pointers, Sorting | ❌ |  |
