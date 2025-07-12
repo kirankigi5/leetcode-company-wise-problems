@@ -10,7 +10,7 @@ This document contains Amazon LeetCode problems with tracking for solved status 
 | EASY | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | 81.4 | 52.9% | [Link](https://leetcode.com/problems/merge-sorted-array) | Array, Two Pointers, Sorting | ❌ |  |
 | MEDIUM | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | 78.9 | 70.9% | [Link](https://leetcode.com/problems/group-anagrams) | Array, Hash Table, String, Sorting | ❌ |  |
 | MEDIUM | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | 77.9 | 46.2% | [Link](https://leetcode.com/problems/add-two-numbers) | Linked List, Math, Recursion | ❌ |  |
-| EASY | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 77.7 | 42.3% | [Link](https://leetcode.com/problems/valid-parentheses) | String, Stack | ❌ |  |
+| EASY | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 77.7 | 42.3% | [Link](https://leetcode.com/problems/valid-parentheses) | String, Stack | ✅ | [C++ Stack Solution](https://leetcode.com/problems/valid-parentheses/solutions/6680507/valid-parentheses-stack-based-bracket-matching-c-beats-100-c-stack-impl/) |
 | MEDIUM | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | 77.1 | 35.8% | [Link](https://leetcode.com/problems/longest-palindromic-substring) | Two Pointers, String, Dynamic Programming | ❌ |  |
 | MEDIUM | [3Sum](https://leetcode.com/problems/3sum) | 76.7 | 37.1% | [Link](https://leetcode.com/problems/3sum) | Array, Two Pointers, Sorting | ❌ |  |
 | MEDIUM | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | 75.8 | 49.4% | [Link](https://leetcode.com/problems/merge-intervals) | Array, Sorting | ❌ |  |
